@@ -1,4 +1,4 @@
-# MYPROJECTS There are some of my recent programms
+# There are some of my recent programms
 
 
 Here you can find data for jupyternotebook project
